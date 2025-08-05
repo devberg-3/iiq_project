@@ -1,0 +1,7 @@
+{
+  "car": "LMV",
+  "motorcycle": "LMV",
+  "bicycle": "LMV",
+  "bus": "HMV",
+  "truck": "HMV"
+}

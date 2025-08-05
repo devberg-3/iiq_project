@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['Ambulance', 'Bus', 'Car', 'Motorcycle', 'Truck']
+
+roboflow:
+  workspace: deva-prasath-r-rtstu
+  project: vehicles-openimages-dxnpd
+  version: 1
+  license: CC BY 4.0
+  url: https://app.roboflow.com/deva-prasath-r-rtstu/vehicles-openimages-dxnpd/1
