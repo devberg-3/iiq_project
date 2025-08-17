@@ -1,11 +1,4 @@
 
-
-## Features
-- Detects and tracks vehicles using YOLOv11
-- Counts vehicles crossing a virtual line
-- Supports local video files or RTSP stream
-
-
 #  Vehicle Counter using YOLO & OpenCV
 This project is a real-time vehicle detection and counting system built with YOLOv11, OpenCV, and Python.
 It allows you to mark reference lines on a video feed, count vehicles as they cross those lines, and maintain detailed logs for analysis.
