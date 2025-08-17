@@ -1,5 +1,0 @@
-Run Date: 2025-08-04
-Input: media/sample_video.mp4
-Total Vehicles Counted: 127
- - LMV: 92
- - HMV: 35
