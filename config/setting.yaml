@@ -1,9 +1,1 @@
-line_position:
-  red_line_y: 430
 
-classes_to_track:
-  - car
-  - bus
-  - motorcycle
-  - truck
-  - bicycle
